@@ -15,7 +15,15 @@ _Then I noticed another bug ..._
 
 ## Exercise 1
 
-[[Your answer goes here!]]
+Expected output: successfully add pizza order
+
+Actual output: failed to add pizza order
+
+Stack trace: could not import 'app'
+
+Line numbers: 240 in /usr/local/lib/python3.9/site-packages/flask/cli.py
+
+Assumptions: corrupt flask env
 
 ## Exercise 2
 
